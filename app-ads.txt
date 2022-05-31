@@ -1,7 +1,16 @@
 
 #Windflow
-facebook.com, 570768554470500, RESELLER, c3e20eee3f780d68
+google.com, pub-9583172657143586, DIRECT, f08c47fec0942fa0
+google.com, pub-3136112510928160, DIRECT, f08c47fec0942fa0
+facebook.com, 634999901139077, RESELLER, c3e20eee3f780d68
+facebook.com, 1115137202613208, RESELLER, c3e20eee3f780d68
+facebook.com, 487064666500346, RESELLER, c3e20eee3f780d68
+facebook.com, 729350601432599, RESELLER, c3e20eee3f780d68
 facebook.com, 347952510781618, RESELLER, c3e20eee3f780d68
+facebook.com, 570768554470500, RESELLER, c3e20eee3f780d68
+#CrazyLabs
+facebook.com, 763981774761615, RESELLER, c3e20eee3f780d68
+
 
 #CrazyLabs
 #Facebook Ad Network
